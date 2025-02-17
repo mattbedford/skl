@@ -1,13 +1,30 @@
-<div class="container">
-    <ul class="nav nav-pills">
-        <li class="nav-item">
-            <a class="nav-link <?php if ($CURRENT_PAGE == "Index") {?>active<?php }?>" href="index.php">Home</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link <?php if ($CURRENT_PAGE == "About") {?>active<?php }?>" href="about.php">About Us</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link <?php if ($CURRENT_PAGE == "Contact") {?>active<?php }?>" href="contact.php">Contact</a>
-        </li>
+<?php
+
+    $pages = [
+        ['Home', '/'],
+        ['About', '/about'],
+        ['Contact', '/contact']
+    ];
+
+?>
+
+<nav class="navbar navbar-expand-lg navbar-light main-light-bg justify-content-between py-3 w-75 mx-auto">
+    <a class="navbar-brand" href="/">
+        <img src="../img/skl-brown-logo.webp" alt="Logo" height="100" class="d-inline-block align-top" />
+    </a>
+    <ul class="navbar-nav">
+        <?php foreach($pages as $page) {
+            $class = "nav-link";
+            if(ltrim($page[1], '/') === get_page_path()) {
+                $class = "nav-link active";
+            }
+            echo "<a href='" . lcfirst($page[1]) . "' class='" . $class . "'>";
+            echo "<li class='nav-item'>";
+            echo $page[0];
+            echo "</li>";
+            echo "</a>";
+
+        }
+        ?>
     </ul>
-</div>
+</nav>
