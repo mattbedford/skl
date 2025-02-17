@@ -298,8 +298,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 .hero {
-  min-height:60vh;
-  min-height:60dvh;
+  min-height:70vh;
+  min-height:70dvh;
   background-repeat:no-repeat;
   background-position: center;
   background-size:cover;

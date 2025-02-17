@@ -13,5 +13,4 @@
 </head>
 
 <body>
-<?php include("includes/topbar.php");?>
 <?php include("includes/navigation.php");?>
