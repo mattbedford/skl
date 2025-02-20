@@ -246,39 +246,6 @@ textarea {
 }
 
 
-:root {
-  --accent-dark: #9a6c29;
-  --accent-light: #fbf0e4;
-  --main-dark: #2a2a2a;
-  --main-light: #f1f1f1;
-}
-
-/*Bootstrap-style helpers*/
-.accent-dark {
-  color: var(--accent-dark);
-}
-.accent-dark-bg {
-  background-color: var(--accent-dark)
-}
-.accent-light {
-  color: var(--accent-light)
-}
-.accent-light-bg {
-  background-color: var(--accent-light);
-}
-.main-dark {
-  color:var(--main-dark);
-}
-.main-dark-bg {
-  background-color: var(--main-dark);
-}
-.main-light {
-  color:var(--main-light);
-}
-.main-light-bg {
-  background-color:var(--main-light);
-}
-
 
 body, html {
   background:var(--main-light);

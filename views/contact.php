@@ -1,4 +1,4 @@
-<?php include("includes/header.php");?>
+<?php include("includes/head.php");?>
 
 <div class="container" id="main-content">
     <h2>Contact Us</h2>
