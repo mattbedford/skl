@@ -14,16 +14,16 @@
         <!-- START THE FEATURETTES -->
 
         <div class="row featurette">
-            <div class="col-md-7">
-                <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It’ll blow your mind.</span></h2>
-                <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
+            <div class="col-md-7 pe-5">
+                <h2 class="featurette-heading">Friendly and efficient construction <span class="text-muted">whatever your project</span></h2>
+                <p class="lead">From shops and homes to warehouses and offices, we have the experience and expertise to deliver your building project to the highest standards with minimum disruption, whatever the job size.</p>
                 <div class="icon-block container">
                     <div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="custom-icon" viewBox="0 0 512 512"><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32" d="M448 256c0-106-86-192-192-192S64 150 64 256s86 192 192 192 192-86 192-192z"/><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M352 176 217.6 336 160 272"/></svg>
                     </div>
                     <div>
-                        <h4>Some mkt texct headline</h4>
-                        <p>Some shorter, but still explicable and complete, kind of descriptiopn goes here for the aforementioned service and/or thing.</p>
+                        <h4>Bespoke design and building</h4>
+                        <p>From mezzanine floors to kitchen redesigns, we can offer guidance and support from blueprint to delivery of your project.</p>
                     </div>
                 </div>
                 <div class="icon-block container">
@@ -31,13 +31,22 @@
                         <svg xmlns="http://www.w3.org/2000/svg" class="custom-icon" viewBox="0 0 512 512"><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32" d="M448 256c0-106-86-192-192-192S64 150 64 256s86 192 192 192 192-86 192-192z"/><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M352 176 217.6 336 160 272"/></svg>
                     </div>
                     <div>
-                        <h4>Some mkt texct headline</h4>
-                        <p>Some shorter, but still explicable and complete, kind of descriptiopn goes here for the aforementioned service and/or thing.</p>
+                        <h4>Maintenance & electrical</h4>
+                        <p>We have qualified and experienced technicians and tradesmen able to adapt to your requirements and ensure maintenance or new work is completed to code and on time.</p>
+                    </div>
+                </div>
+                <div class="icon-block container">
+                    <div>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="custom-icon" viewBox="0 0 512 512"><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32" d="M448 256c0-106-86-192-192-192S64 150 64 256s86 192 192 192 192-86 192-192z"/><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M352 176 217.6 336 160 272"/></svg>
+                    </div>
+                    <div>
+                        <h4>Interior and external construction</h4>
+                        <p>Whether you are decorating or refitting offices or extending your domestic or commercial property we offer a full-range of contracting to meet your requirements.</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-5">
-                <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+                <img src="../img/skl-commercial-01.webp" alt="Commercial construction work on a car park ramp by SKL Construction" class="img-fluid rounded-2">
 
             </div>
         </div>

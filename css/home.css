@@ -1,4 +1,7 @@
 
+/*Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
 /* PLACEHOLDER */
 .bd-placeholder-img {
     font-size: 1.125rem;
@@ -24,6 +27,22 @@ body {
     color: #5a5a5a;
 }
 
+body, html {
+    min-height:100vh;
+    min-height:100dvh;
+}
+p, a, ul, li, ol, b, strong, h1, h2, h3, h4, h5, h6, span {
+    color: var(--main-dark);
+    font-family: "Source Sans 3", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+p, a, ul, li, ol, b, strong, span, body, html {
+    font-weight: 400;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700 !important;
+}
 :root {
     --accent-dark: #9a6c29;
     --accent-light: #fbf0e4;
@@ -90,6 +109,8 @@ svg.custom-icon {
     bottom: 50%;
     transform:translateY(50%);
     z-index: 10;
+    left:0;
+    right:0;
 }
 .hero-inner {
     position:relative;
@@ -109,7 +130,9 @@ svg.custom-icon {
     top:0;
     left:0;
 }
-
+.carousel-caption > * {
+    text-shadow: 0 0 50px black;
+}
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
@@ -134,6 +157,10 @@ svg.custom-icon {
 
 /* Featurettes
 ------------------------- */
+
+.featurette {
+    padding:6rem 0;
+}
 
 .featurette-divider {
     margin: 5rem 0; /* Space out the Bootstrap <hr> more */
@@ -168,11 +195,5 @@ svg.custom-icon {
 
     .featurette-heading {
         font-size: 50px;
-    }
-}
-
-@media (min-width: 62em) {
-    .featurette-heading {
-        margin-top: 7rem;
     }
 }
