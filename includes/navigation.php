@@ -22,6 +22,10 @@
                 if(ltrim($page[1], '/') === get_page_path()) {
                     $class = "nav-link active";
                 }
+                if(ltrim(lcfirst($page[1]), '/') === 'contact') {
+                    $class = "btn btn-secondary";
+                }
+
                 echo "<a href='" . lcfirst($page[1]) . "' class='" . $class . " mx-3'>";
                 echo "<li class='nav-item text-uppercase'><strong>";
                 echo $page[0];

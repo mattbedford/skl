@@ -17,6 +17,24 @@
             <div class="col-md-7">
                 <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It’ll blow your mind.</span></h2>
                 <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
+                <div class="icon-block container">
+                    <div>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="custom-icon" viewBox="0 0 512 512"><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32" d="M448 256c0-106-86-192-192-192S64 150 64 256s86 192 192 192 192-86 192-192z"/><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M352 176 217.6 336 160 272"/></svg>
+                    </div>
+                    <div>
+                        <h4>Some mkt texct headline</h4>
+                        <p>Some shorter, but still explicable and complete, kind of descriptiopn goes here for the aforementioned service and/or thing.</p>
+                    </div>
+                </div>
+                <div class="icon-block container">
+                    <div>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="custom-icon" viewBox="0 0 512 512"><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32" d="M448 256c0-106-86-192-192-192S64 150 64 256s86 192 192 192 192-86 192-192z"/><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M352 176 217.6 336 160 272"/></svg>
+                    </div>
+                    <div>
+                        <h4>Some mkt texct headline</h4>
+                        <p>Some shorter, but still explicable and complete, kind of descriptiopn goes here for the aforementioned service and/or thing.</p>
+                    </div>
+                </div>
             </div>
             <div class="col-md-5">
                 <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -45,7 +63,7 @@
     <!-- cards section
     ==================================-->
 
-    <div class="row container row-cols-1 row-cols-md-3 g-4 cards-section w-75 mx-auto mt-5">
+    <div class="row container row-cols-1 row-cols-md-3 g-4 cards-section mx-auto mt-5">
         <div class="col py-5">
             <div class="card h-100">
                 <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
