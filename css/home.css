@@ -62,8 +62,12 @@ body {
 -------------------------------------------------- */
 
 /* Carousel base class */
-.carousel {
+.hero-section {
     margin-bottom: 4rem;
+    height:70vh;
+    height: 70dvh;
+    min-width:100% !important;
+    max-width:unset;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -71,19 +75,24 @@ body {
     transform:translateY(50%);
     z-index: 10;
 }
-
-/* Declare heights because of positioning of img element */
-.carousel-item {
-    height:70vh;
-    height: 70dvh;
+.hero-inner {
+    position:relative;
+    max-height:100%;
+    overflow-y:hidden;
 }
-.carousel-item > img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    min-width: 100%;
+.hero-inner img {
+    object-fit: cover;
+    width:100%;
 }
-
+.overlay {
+    background: rgb(0,0,0);
+    background: linear-gradient(51deg, rgba(0,0,0,1) 1%, rgba(219,139,33,0) 53%);
+    width:100%;
+    height:100%;
+    position:absolute;
+    top:0;
+    left:0;
+}
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
