@@ -92,6 +92,43 @@ svg.custom-icon {
 }
 
 
+/* BUTTONS */
+.btn.btn-link {
+    color:var(--accent-light);
+}
+.btn.btn-link:hover {
+    color:var(--main-dark);
+}
+
+.btn-link:focus-visible,
+.btn-link:focus {
+    border:none !important;
+    box-shadow:none;
+    background:#ffffff59;
+    color:var(--main-accent) !important;
+    outline:3px solid rgba(0,0,0,0.4);
+}
+
+.btn-base {
+    background:var(--accent-dark);
+    color:white;
+    border:none !important;
+}
+.btn-base:hover {
+    background:var(--main-dark) !important;
+    color:white !important;
+    outline:3px solid rgba(0,0,0,0.4);
+}
+
+.btn-base:focus-visible,
+.btn-base:focus {
+    background:var(--accent-dark) !important;
+    color:var(--main-dark) !important;
+    outline:3px solid rgba(0,0,0,0.4);
+}
+
+
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -159,7 +196,7 @@ svg.custom-icon {
 ------------------------- */
 
 .featurette {
-    padding:6rem 0;
+    padding:3rem 0 3rem 0;
 }
 
 .featurette-divider {
@@ -172,6 +209,15 @@ svg.custom-icon {
     line-height: 1;
     /* rtl:remove */
     letter-spacing: -.05rem;
+}
+
+
+
+/* CARDS
+======================================*/
+.cards-section .card img,
+.cards-section .card {
+    border-radius: 6px 6px 0 0;
 }
 
 

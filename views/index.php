@@ -50,9 +50,79 @@
 
             </div>
         </div>
+        <!-- /END THE FEATURETTES -->
 
-        <hr class="featurette-divider">
+    </div><!-- /.container -->
 
+
+    <!-- cards section
+    ==================================-->
+<div class="cards-section container-fluid accent-light-bg py-5">
+    <div class="row container row-cols-1 row-cols-md-3 g-4 mx-auto">
+        <div class="col py-5">
+            <div class="card h-100 shadow-lg rounded-2 shadow-lg rounded-2">
+                <img src="../img/skl-mezzanine-03.webp" class="img-fluid" alt="Mezzanine floor construction by SKL" />
+                <div class="card-body">
+                    <h5 class="card-title">Mezzanine floors</h5>
+                    <p class="card-text">Maximize your space with our expert mezzanine floor construction! Durable, cost-effective, and custom-designed solutions for warehouses, offices, and industrial facilities.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col py-5">
+            <div class="card h-100 shadow-lg rounded-2">
+                <img src="../img/skl-commercial-03.webp" class="img-fluid" alt="Commercial installation by SKL" />
+                <div class="card-body">
+                    <h5 class="card-title">Commercial installations</h5>
+                    <p class="card-text">We install refrigeration and air-conditioning systems, cool rooms and fridge units to enable efficient and certified climate control.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col py-5">
+            <div class="card h-100 shadow-lg rounded-2">
+                <img src="../img/skl-exteriors-02.webp" class="img-fluid" alt="Exterior facade renewal construction by SKL" />
+
+                <div class="card-body">
+                    <h5 class="card-title">Interior & exterior decoration</h5>
+                    <p class="card-text">Enhance the visual appeal of your office or residence with landscaping, outdoor lighting, decks, paint or siding choices.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row container row-cols-1 row-cols-md-3 g-4 cards-section mx-auto">
+        <div class="col py-5">
+            <div class="card h-100 shadow-lg rounded-2">
+                <img src="../img/skl-kitchens-02.webp" class="img-fluid" alt="Kitchen refurbishment work by SKL" />
+
+                <div class="card-body">
+                    <h5 class="card-title">Bathroom and kitchen refurbishment</h5>
+                    <p class="card-text">Professional bathroom and kitchen installations designed for functionality and style, with excellent craftsmanship and attention to detail.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col py-5">
+            <div class="card h-100 shadow-lg rounded-2">
+                <img src="../img/skl-commercial-02.webp" class="img-fluid" alt="Exterior renovation construction work by SKL" />
+
+                <div class="card-body">
+                    <h5 class="card-title">General building and maintenance</h5>
+                    <p class="card-text">Comprehensive building, design and maintenance work, with thoughtful solutions to keep spaces functional, durable, and at their best.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col py-5">
+            <div class="card h-100 shadow-lg rounded-2">
+                <img src="../img/skl-carpentry.webp" class="img-fluid" alt="Carpentry in an exterior building by SKL" />
+
+                <div class="card-body">
+                    <h5 class="card-title">Carpentry, tiling and plastering services</h5>
+                    <p class="card-text">Skilled carpentry, precise tiling, and smooth plastering services, ensuring durable finishes, meticulous detail, and expertly crafted spaces tailored to your needs.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- enf cards section -->
+
+    <div class="container marketing">
         <div class="row featurette">
             <div class="col-md-7 order-md-2">
                 <h2 class="featurette-heading">Oh yeah, it’s that good. <span class="text-muted">See for yourself.</span></h2>
@@ -64,48 +134,7 @@
             </div>
         </div>
 
-        <!-- /END THE FEATURETTES -->
-
-    </div><!-- /.container -->
-
-
-    <!-- cards section
-    ==================================-->
-
-    <div class="row container row-cols-1 row-cols-md-3 g-4 cards-section mx-auto mt-5">
-        <div class="col py-5">
-            <div class="card h-100">
-                <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
-
-                <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                </div>
-            </div>
-        </div>
-        <div class="col py-5">
-            <div class="card h-100">
-                <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
-
-                <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                </div>
-            </div>
-        </div>
-        <div class="col py-5">
-            <div class="card h-100">
-                <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
-
-                <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                </div>
-            </div>
-        </div>
-    </div><!-- enf cards section -->
-
-
+    </div>
 
     <!--- Jumbotron section
     =========================================== --->
