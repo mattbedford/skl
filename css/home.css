@@ -218,6 +218,7 @@ svg.custom-icon {
 .cards-section .card img,
 .cards-section .card {
     border-radius: 6px 6px 0 0;
+    border:none !important;
 }
 
 
