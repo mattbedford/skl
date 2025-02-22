@@ -100,6 +100,7 @@ svg.custom-icon {
 svg.star {
     height:30px;
     fill:var(--accent-dark);
+    margin-right:3px;
 }
 
 svg.feat-icon {
@@ -150,7 +151,10 @@ svg.feat-icon {
     color:var(--main-dark) !important;
     outline:3px solid rgba(0,0,0,0.4);
 }
-
+nav a.btn.menu-btn.btn-base li.nav-item,
+nav a.btn.menu-btn.btn-base li.nav-item strong {
+    color:white !important;
+}
 
 
 
@@ -250,7 +254,9 @@ svg.feat-icon {
     background: rgb(42,42,42);
     background: linear-gradient(180deg, rgba(42,42,42,1) 80%, rgba(255,255,255,1) 20%);
 }
-
+.feature-cards .card-footer {
+    padding-left:0;
+}
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
