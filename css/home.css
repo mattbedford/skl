@@ -348,7 +348,7 @@ nav a.btn.menu-btn.btn-base li.nav-item strong {
         margin-top:15px;
     }
     p.lead {
-        text-align:center;
+        text-align:center !important;
     }
     .container,
     .container-fluid,
