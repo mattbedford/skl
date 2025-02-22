@@ -99,6 +99,12 @@ svg.custom-icon {
 }
 svg.star {
     height:30px;
+    fill:var(--accent-dark);
+}
+
+svg.feat-icon {
+    height:50px;
+    fill:var(--accent-light) !important;
 }
 
 /* BUTTONS */
