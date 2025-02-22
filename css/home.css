@@ -107,6 +107,15 @@ svg.feat-icon {
     fill:var(--accent-light) !important;
 }
 
+.no-side-padding {
+    padding-left:0 !important;
+    padding-right:0 !important;
+}
+.custom-max-width {
+    max-width: 1140px;
+    margin:0 auto;
+}
+
 /* BUTTONS */
 .btn.btn-link {
     color:var(--accent-light);
@@ -241,7 +250,7 @@ svg.feat-icon {
 -------------------------------------------------- */
 .feature-cards {
     background: rgb(42,42,42);
-    background: linear-gradient(180deg, rgba(42,42,42,1) 50%, rgba(255,255,255,1) 50%);
+    background: linear-gradient(180deg, rgba(42,42,42,1) 80%, rgba(255,255,255,1) 20%);
 }
 
 /* RESPONSIVE CSS
