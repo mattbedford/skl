@@ -347,9 +347,6 @@ nav a.btn.menu-btn.btn-base li.nav-item strong {
         padding-left:0;
         margin-top:15px;
     }
-    .featurette p.lead {
-        text-align:center !important;
-    }
     .container,
     .container-fluid,
     .row.featurette {
@@ -378,6 +375,8 @@ nav a.btn.menu-btn.btn-base li.nav-item strong {
     .feature-cards:last-child .main-mid-bg.p-5 {
         border-radius:0 0 6px 6px !important;
     }
-
+    .featurette p.lead {
+        text-align:center !important;
+    }
 
 }
