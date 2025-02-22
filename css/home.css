@@ -84,11 +84,11 @@ ul.navbar-nav {
     gap:1rem;
 }
 svg.custom-icon {
-    box-sizing:content-box;
-    width:50px;
-    background:var(--main-light);
-    padding:5px;
-    border-radius:100px;
+    box-sizing: border-box;
+    width: 50px;
+    background: var(--main-light);
+    padding: 8px;
+    border-radius: 100px;
 }
 
 

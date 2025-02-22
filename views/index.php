@@ -14,7 +14,7 @@
         <!-- START THE FEATURETTES -->
 
         <div class="row featurette">
-            <div class="col-md-7 pe-5">
+            <div class="col-md-7" style="padding-bottom: 60px">
                 <h2 class="featurette-heading">Friendly and efficient construction <span class="text-muted">whatever your project</span></h2>
                 <p class="lead">From shops and homes to warehouses and offices, we have the experience and expertise to deliver your building project to the highest standards with minimum disruption, whatever the job size.</p>
                 <div class="icon-block container">
@@ -57,7 +57,8 @@
 
     <!-- cards section
     ==================================-->
-<div class="cards-section container-fluid accent-light-bg py-5">
+<div class="cards-section container-fluid accent-light-bg" style="padding:100px 0;">
+    <h2 class="featurette-heading text-center">Our construction services <span class="text-muted">in Herts, Beds and Bucks, UK</span></h2>
     <div class="row container row-cols-1 row-cols-md-3 g-4 mx-auto">
         <div class="col py-5">
             <div class="card h-100 shadow-lg rounded-2 shadow-lg rounded-2">
@@ -125,12 +126,38 @@
     <div class="container marketing">
         <div class="row featurette">
             <div class="col-md-7 order-md-2">
-                <h2 class="featurette-heading">Oh yeah, it’s that good. <span class="text-muted">See for yourself.</span></h2>
-                <p class="lead">Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
+                <h2 class="featurette-heading">A design and building process <span class="text-muted">with you at the centre</span></h2>
+                <p class="lead">At SKL, our success hinges on your satisfaction. We’re dedicated to making every step of your project seamless because delivering excellence is what drives us. We love our work and are confident you’ll enjoy working with us.</p>
+                <div class="icon-block container">
+                    <div>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="custom-icon" viewBox="0 0 512 512"><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32" d="M448 256c0-106-86-192-192-192S64 150 64 256s86 192 192 192 192-86 192-192z"/><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M352 176 217.6 336 160 272"/></svg>
+                    </div>
+                    <div>
+                        <h4>Consultation, quote, & planning</h4>
+                        <p>We begin with an initial site visit to assess your needs and provide a detailed estimate. Together with you, we'll set a timeline, transparent cost estimates and clear milestones for delivery.</p>
+                    </div>
+                </div>
+                <div class="icon-block container">
+                    <div>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="custom-icon" viewBox="0 0 512 512"><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32" d="M448 256c0-106-86-192-192-192S64 150 64 256s86 192 192 192 192-86 192-192z"/><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M352 176 217.6 336 160 272"/></svg>
+                    </div>
+                    <div>
+                        <h4>Execution & communication</h4>
+                        <p>Work commences on-site with ongoing photo updates and clear, transparent communication to ensure you’re informed and involved every step of the way.</p>
+                    </div>
+                </div>
+                <div class="icon-block container">
+                    <div>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="custom-icon" viewBox="0 0 512 512"><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32" d="M448 256c0-106-86-192-192-192S64 150 64 256s86 192 192 192 192-86 192-192z"/><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M352 176 217.6 336 160 272"/></svg>
+                    </div>
+                    <div>
+                        <h4>Completion & assurance</h4>
+                        <p>A final walkthrough and quality check confirm that the project meets our strict standards, culminating in your sign-off to ensure you're delighted with everything.</p>
+                    </div>
+                </div>
             </div>
             <div class="col-md-5 order-md-1">
-                <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
-
+                <img src="../img/skl-kitchen-09.webp" class="img-fluid" alt="Exterior construction work on a commercial property by SKL" />
             </div>
         </div>
 

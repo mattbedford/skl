@@ -1,7 +1,7 @@
 
 <div class="hero-section">
     <div class="hero-inner">
-            <img src="../img/skl-kitchen-01.webp" class="img-fluid" alt="Picture of a kitchen crafted by SKL Construction & Design Ltd"/>
+            <img src="../img/skl-kitchen-07.webp" class="img-fluid" alt="Picture of a kitchen crafted by SKL Construction & Design Ltd"/>
             <div class="overlay">
                 <div class="container-fluid h-100 w-75">
                     <div class="hero-text text-start d-flex flex-column justify-content-center align-items-start h-100">
