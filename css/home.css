@@ -327,6 +327,9 @@ nav a.btn.menu-btn.btn-base li.nav-item strong {
     .topbar {
         display:none;
     }
+    .navbar-brand img {
+        height:80px;
+    }
 
 
 }
