@@ -289,6 +289,7 @@ nav a.btn.menu-btn.btn-base li.nav-item strong {
 
 
 .back-to-top {
+    visibility:hidden;
     position:fixed;
     right:20px;
     bottom:20px;
@@ -297,6 +298,13 @@ nav a.btn.menu-btn.btn-base li.nav-item strong {
     border-radius:4px;
     padding:5px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 2px 2px rgba(0,0,0,0.05) !important;
+    -webkit-transition:visibility 0.3s ease-in-out;
+    transition:visibility 0.3s ease-in-out;
+}
+.back-to-top.scrolled {
+    visibility: visible;
+    -webkit-transition:visibility 0.3s ease-in-out;
+    transition:visibility 0.3s ease-in-out;
 }
 .back-to-top .btt {
     width:30px;
@@ -377,6 +385,9 @@ nav a.btn.menu-btn.btn-base li.nav-item strong {
     }
     .featurette p.lead {
         text-align:center !important;
+    }
+    .mega-card .p-5 {
+        padding:40px 20px !important;
     }
 
 }
