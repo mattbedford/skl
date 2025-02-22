@@ -321,8 +321,18 @@ nav a.btn.menu-btn.btn-base li.nav-item strong {
     .hero-inner,
     .hero-text,
     .hero-inner img {
-        max-height:unset;
-        height:80vh;
+        max-height:unset !important;
+        min-height:90vh;
+    }
+    .hero-text {
+        padding-top:100px;
+        padding-bottom:100px;
+    }
+    .hero-text h1 {
+        font-size:30px;
+    }
+    .hero-text p.text-light {
+        font-size:20px !important;
     }
     .topbar {
         display:none;
