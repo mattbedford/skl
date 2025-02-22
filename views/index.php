@@ -59,7 +59,7 @@
     ==================================-->
 <div class="cards-section container-fluid accent-light-bg" style="padding:100px 0;">
     <h2 class="featurette-heading text-center">Our construction services <span class="text-muted">in Herts, Beds and Bucks, UK</span></h2>
-    <p class="lead w-50 w-100 mx-auto text-center">Our expert team at SKL delivers comprehensive construction and installation services—including mezzanine floors, cool rooms, office fit-outs, maintenance, partitioning, decoration, carpentry, tiling, and air conditioning installations.</p>
+    <p class="lead col-md-6 mx-auto text-center">Our expert team at SKL delivers comprehensive construction and installation services—including mezzanine floors, cool rooms, office fit-outs, maintenance, partitioning, decoration, carpentry, tiling, and air conditioning installations.</p>
     <div class="row container row-cols-1 row-cols-md-3 g-4 mx-auto no-side-padding">
         <div class="col py-md-5 py-2">
             <div class="card h-100 shadow-lg rounded-2 shadow-lg rounded-2">
