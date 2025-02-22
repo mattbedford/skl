@@ -301,3 +301,32 @@ nav a.btn.menu-btn.btn-base li.nav-item strong {
 .back-to-top .btt {
     width:30px;
 }
+
+
+
+
+/* @mobile
+=======================================*/
+/*Hamburger*/
+.menu-btn {
+    color: white; /* Example */
+    background-color: var(--accent-dark);
+}
+.menu-btn:hover {
+    background-color: var(--main-dark);
+}
+
+@media screen and (max-width:850px) {
+    .hero-section,
+    .hero-inner,
+    .hero-text,
+    .hero-inner img {
+        max-height:unset;
+        height:80vh;
+    }
+    .topbar {
+        display:none;
+    }
+
+
+}

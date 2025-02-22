@@ -59,9 +59,9 @@
     ==================================-->
 <div class="cards-section container-fluid accent-light-bg" style="padding:100px 0;">
     <h2 class="featurette-heading text-center">Our construction services <span class="text-muted">in Herts, Beds and Bucks, UK</span></h2>
-    <p class="lead w-50 mx-auto text-center">Our expert team at SKL delivers comprehensive construction and installation services—including mezzanine floors, cool rooms, office fit-outs, maintenance, partitioning, decoration, carpentry, tiling, and air conditioning installations.</p>
+    <p class="lead w-50 w-100 mx-auto text-center">Our expert team at SKL delivers comprehensive construction and installation services—including mezzanine floors, cool rooms, office fit-outs, maintenance, partitioning, decoration, carpentry, tiling, and air conditioning installations.</p>
     <div class="row container row-cols-1 row-cols-md-3 g-4 mx-auto no-side-padding">
-        <div class="col py-5">
+        <div class="col py-md-5 py-2">
             <div class="card h-100 shadow-lg rounded-2 shadow-lg rounded-2">
                 <img src="../img/skl-mezzanine-03.webp" class="img-fluid" alt="Mezzanine floor construction by SKL" />
                 <div class="card-body p-4">
@@ -70,7 +70,7 @@
                 </div>
             </div>
         </div>
-        <div class="col py-5">
+        <div class="col py-md-5 py-2">
             <div class="card h-100 shadow-lg rounded-2">
                 <img src="../img/skl-commercial-03.webp" class="img-fluid" alt="Commercial installation by SKL" />
                 <div class="card-body p-4">
@@ -79,7 +79,7 @@
                 </div>
             </div>
         </div>
-        <div class="col py-5">
+        <div class="col py-md-5 py-2">
             <div class="card h-100 shadow-lg rounded-2">
                 <img src="../img/skl-exteriors-02.webp" class="img-fluid" alt="Exterior facade renewal construction by SKL" />
 
@@ -91,7 +91,7 @@
         </div>
     </div>
     <div class="row container row-cols-1 row-cols-md-3 g-4 cards-section mx-auto no-side-padding">
-        <div class="col py-5">
+        <div class="col py-md-5 py-2">
             <div class="card h-100 shadow-lg rounded-2">
                 <img src="../img/skl-kitchens-02.webp" class="img-fluid" alt="Kitchen refurbishment work by SKL" />
 
@@ -101,7 +101,7 @@
                 </div>
             </div>
         </div>
-        <div class="col py-5">
+        <div class="col py-md-5 py-2">
             <div class="card h-100 shadow-lg rounded-2">
                 <img src="../img/skl-commercial-02.webp" class="img-fluid" alt="Exterior renovation construction work by SKL" />
 
@@ -111,7 +111,7 @@
                 </div>
             </div>
         </div>
-        <div class="col py-5">
+        <div class="col py-md-5 py-2">
             <div class="card h-100 shadow-lg rounded-2">
                 <img src="../img/skl-carpentry.webp" class="img-fluid" alt="Carpentry in an exterior building by SKL" />
 
@@ -288,7 +288,7 @@
                     </div>
             </div><!--enf row-->
         <!-- mega-card -->
-            <div class="mega-card my-5 d-flex container flex-row">
+            <div class="mega-card my-5 d-flex container flex-column flex-md-row">
                 <div class="">
                     <img src="../img/skl-exteriors-04.webp" class="img-fluid rounded-start" alt="Covered jacuzzi set within an external deck by SKL">
                 </div>
