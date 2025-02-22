@@ -107,6 +107,11 @@ svg.feat-icon {
     height:50px;
     fill:var(--accent-light) !important;
 }
+svg.nav-icon {
+    height:24px;
+    fill: white !important;
+}
+
 
 .no-side-padding {
     padding-left:0 !important;
@@ -156,7 +161,16 @@ nav a.btn.menu-btn.btn-base li.nav-item strong {
     color:white !important;
 }
 
-
+.topbar a {
+    margin-left:40px;
+}
+.topbar .navbar-text,
+.topbar * {
+    color:white !important;
+}
+.topbar a {
+    text-decoration: none;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
