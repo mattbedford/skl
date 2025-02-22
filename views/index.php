@@ -60,7 +60,7 @@
 <div class="cards-section container-fluid accent-light-bg" style="padding:100px 0;">
     <h2 class="featurette-heading text-center">Our construction services <span class="text-muted">in Herts, Beds and Bucks, UK</span></h2>
     <p class="lead w-50 mx-auto text-center">Our expert team at SKL delivers comprehensive construction and installation services—including mezzanine floors, cool rooms, office fit-outs, maintenance, partitioning, decoration, carpentry, tiling, and air conditioning installations.</p>
-    <div class="row container row-cols-1 row-cols-md-3 g-4 mx-auto">
+    <div class="row container row-cols-1 row-cols-md-3 g-4 mx-auto no-side-padding">
         <div class="col py-5">
             <div class="card h-100 shadow-lg rounded-2 shadow-lg rounded-2">
                 <img src="../img/skl-mezzanine-03.webp" class="img-fluid" alt="Mezzanine floor construction by SKL" />
@@ -90,7 +90,7 @@
             </div>
         </div>
     </div>
-    <div class="row container row-cols-1 row-cols-md-3 g-4 cards-section mx-auto">
+    <div class="row container row-cols-1 row-cols-md-3 g-4 cards-section mx-auto no-side-padding">
         <div class="col py-5">
             <div class="card h-100 shadow-lg rounded-2">
                 <img src="../img/skl-kitchens-02.webp" class="img-fluid" alt="Kitchen refurbishment work by SKL" />
@@ -166,8 +166,8 @@
 
     <!--- Feature cards section
     =========================================== --->
-    <div class="feature-cards " style="padding:60px 0">
-            <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3 custom-max-width">
+    <div class="feature-cards container-fluid" style="padding:60px 0">
+            <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-3 py-3 container mx-auto no-side-padding">
                     <div class="col">
                     <div class="card card-cover h-100 overflow-hidden main-mid-bg rounded-2 shadow-lg">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
@@ -288,17 +288,15 @@
                     </div>
             </div><!--enf row-->
         <!-- mega-card -->
-            <div class="card mega-card no-side-padding main-mid-bg my-5" style="max-width: calc( 1140px - 24px );margin:0 auto;">
-                <div class="row g-0">
-                    <div class="col-md-6">
-                        <img src="../img/skl-exteriors-04.webp" class="img-fluid rounded-start" alt="Covered jacuzzi set within an external deck by SKL">
-                    </div>
-                    <div class="col-md-6">
-                        <div class="card-body text-light">
-                            <h2 class="card-title featurette-heading"><span class="text-muted" style="color: var(--main-light) !important;">Beatiful work, reliably carried out.</span> Get in touch with SKL today.</h2>
-                            <p class="card-text fs-4 text-light">We offer transparent, no-fee, no-commitment quotes on all your building projects so please get in touch today to discuss your projects.</p>
-                            <p class="card-text fs-4 text-light"><a class="btn btn-base fs-5 rounded-1 mt-3" href="#">Get in touch today</a></p>
-                        </div>
+            <div class="mega-card my-5 d-flex container flex-row">
+                <div class="">
+                    <img src="../img/skl-exteriors-04.webp" class="img-fluid rounded-start" alt="Covered jacuzzi set within an external deck by SKL">
+                </div>
+                <div class="p-5 main-mid-bg" style="border-radius:0 6px 6px 0;">
+                    <div class="card-body text-light">
+                        <h2 class="card-title featurette-heading"><span class="text-muted" style="color: var(--main-light) !important;">Beatiful work, reliably carried out.</span> Get in touch with SKL today.</h2>
+                        <p class="card-text fs-4 text-light">We offer transparent, no-fee, no-commitment quotes on all your building projects so please get in touch today to discuss your projects.</p>
+                        <p class="card-text fs-4 text-light"><a class="btn btn-base fs-5 rounded-1 mt-3" href="#">Get in touch today</a></p>
                     </div>
                 </div>
         </div><!-- end mega-card-->

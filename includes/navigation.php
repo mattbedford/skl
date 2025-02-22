@@ -11,7 +11,7 @@
 <?php include("includes/topbar.php");?>
 
 <header>
-    <nav class="navbar navbar-expand-lg navbar-light justify-content-between py-3 w-75 mx-auto">
+    <nav class="navbar navbar-expand-lg navbar-light justify-content-between py-3 mx-auto container">
 
         <a class="navbar-brand" href="/">
             <img src="../img/skl-logo-brownmed.webp" alt="Logo" height="100" class="d-inline-block align-top" />

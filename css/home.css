@@ -162,8 +162,6 @@ svg.feat-icon {
     margin-bottom: 4rem;
     height:80vh;
     height: 80dvh;
-    min-width:100% !important;
-    max-width:unset;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -267,4 +265,19 @@ svg.feat-icon {
     .featurette-heading {
         font-size: 50px;
     }
+}
+
+
+.back-to-top {
+    position:fixed;
+    right:20px;
+    bottom:20px;
+    z-index:10;
+    background:var(--accent-light);
+    border-radius:4px;
+    padding:5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 2px 2px rgba(0,0,0,0.05) !important;
+}
+.back-to-top .btt {
+    width:30px;
 }
