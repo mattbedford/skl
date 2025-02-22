@@ -362,6 +362,12 @@ nav a.btn.menu-btn.btn-base li.nav-item strong {
     .feature-cards .col {
         padding:0;
     }
+    .feature-cards:last-child img {
+        border-radius:6px 6px 0 0 !important;
+    }
+    .feature-cards:last-child .main-mid-bg.p-5 {
+        border-radius:0 0 6px 6px !important;
+    }
 
 
 }
