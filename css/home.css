@@ -347,7 +347,7 @@ nav a.btn.menu-btn.btn-base li.nav-item strong {
         padding-left:0;
         margin-top:15px;
     }
-    p.lead {
+    .featurette p.lead {
         text-align:center !important;
     }
     .container,
