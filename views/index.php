@@ -294,9 +294,9 @@
                 </div>
                 <div class="p-5 main-mid-bg" style="border-radius:0 6px 6px 0;">
                     <div class="card-body text-light">
-                        <h2 class="card-title featurette-heading"><span class="text-muted" style="color: var(--main-light) !important;">Beatiful work, reliably carried out.</span> Get in touch with SKL today.</h2>
-                        <p class="card-text fs-4 text-light">We offer transparent, no-fee, no-commitment quotes on all your building projects so please get in touch today to discuss your projects.</p>
-                        <p class="card-text fs-4 text-light"><a class="btn btn-base fs-5 rounded-1 mt-3" href="#">Get in touch today</a></p>
+                        <h2 class="card-title featurette-heading text-center text-md-start"><span class="text-muted" style="color: var(--main-light) !important;">Beatiful work, reliably carried out.</span> Get in touch with SKL today.</h2>
+                        <p class="card-text fs-4 text-light text-center text-md-start">We offer transparent, no-fee, no-commitment quotes on all your building projects so please get in touch today to discuss your projects.</p>
+                        <p class="card-text fs-4 text-light text-center text-md-start"><a class="btn btn-base fs-5 rounded-1 mt-3" href="#">Get in touch today</a></p>
                     </div>
                 </div>
         </div><!-- end mega-card-->
