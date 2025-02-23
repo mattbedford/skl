@@ -1,17 +1,16 @@
 <?php include("includes/head.php");?>
 
-<!--jumbotron-->
-<div class="p-5 text-start accent-dark-bg">
-    <div class="container py-5">
-        <h1 class="text-start accent-light">Contact us</h1>
+    <!--jumbotron-->
+    <div class="p-5 text-start accent-dark-bg">
+        <div class="container py-5">
+            <h1 class="text-start accent-light">Our projects</h1>
+        </div>
     </div>
-</div>
-<!-- end jumbotron -->
+    <!-- end jumbotron -->
 
 <main>
     <div class="container" id="main-content">
-        <h2>Contact Us</h2>
-        <p>"Contact Us" conten goes here.  I'll stick with teh "lorem ipsum" as well, so that the footer isn't immediately following this text.</p>
+        <p>This is going to be the projects page. content goes here.  I'll stick with teh "lorem ipsum" as well, so that the footer isn't immediately following this text.</p>
 
         <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

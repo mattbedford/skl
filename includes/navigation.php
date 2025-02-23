@@ -3,6 +3,7 @@
     $pages = [
         ['Home', '/'],
         ['About', '/about'],
+        ['Services', '/services'],
         ['Projects', '/projects'],
         ['Contact', '/contact']
     ];

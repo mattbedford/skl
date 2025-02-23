@@ -32,7 +32,7 @@
                     </div>
                     <div>
                         <h4>Maintenance & electrical</h4>
-                        <p>We have qualified and experienced technicians and tradesmen able to adapt to your requirements and ensure maintenance or new work is completed to code and on time.</p>
+                        <p>We have qualified and experienced technicians and tradesmen able to adapt to your requirements and ensure maintenance or new work is completed to regulations and on time.</p>
                     </div>
                 </div>
                 <div class="icon-block container">
@@ -58,7 +58,7 @@
     <!-- cards section
     ==================================-->
 <div class="cards-section container-fluid accent-light-bg" style="padding:100px 0;">
-    <h2 class="featurette-heading text-center">Our construction services <span class="text-muted">in Herts, Beds and Bucks, UK</span></h2>
+    <h2 class="featurette-heading text-center">Our construction services <span class="text-muted">in London and the Home Counties</span></h2>
     <p class="lead col-md-6 mx-auto text-center">Our expert team at SKL delivers comprehensive construction and installation services—including mezzanine floors, cool rooms, office fit-outs, maintenance, partitioning, decoration, carpentry, tiling, and air conditioning installations.</p>
     <div class="row container row-cols-1 row-cols-md-3 g-4 mx-auto no-side-padding">
         <div class="col py-md-5 py-2">
@@ -66,7 +66,7 @@
                 <img src="../img/skl-mezzanine-03.webp" class="img-fluid" alt="Mezzanine floor construction by SKL" />
                 <div class="card-body p-4">
                     <h5 class="card-title">Mezzanine floors</h5>
-                    <p class="card-text">Maximize your space with our expert mezzanine floor construction! Durable, cost-effective, and custom-designed solutions for warehouses, offices, and industrial facilities.</p>
+                    <p class="card-text">Maximize your space with our expert mezzanine floor construction. Durable, cost-effective, and custom-designed solutions for warehouses, offices, and industrial facilities.</p>
                 </div>
             </div>
         </div>
